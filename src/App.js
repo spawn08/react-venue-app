@@ -1,13 +1,15 @@
-import React from 'react';
+import React from "react";
 import "./resources/styles.css";
 import Header from "./components/header/Header";
-import Featured from './components/featured';
+import Featured from "./components/featured";
+import VenueInfo from "./components/venue_info";
 
 function App() {
   return (
     <div className="App">
-      <Header/>
-      <Featured/>
+      <Header />
+      <Featured />
+      <VenueInfo />
     </div>
   );
 }
