@@ -4,10 +4,6 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
-.App {
-  height: 1500px;
-  background: cornflowerblue;
-}
 
 .font_righteous {
   font-family: "Righteous", cursive;
@@ -354,3 +350,4 @@ footer .footer_copyright {
   padding: 15px 20px;
   text-align: center;
 }
+
