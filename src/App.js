@@ -7,12 +7,13 @@ import HighLight from "./components/highlights";
 import Pricing from "./components/pricing";
 import Location from './components/location';
 import Footer from "./components/header/Footer";
+import 'bootstrap/dist/css/bootstrap.css';
 
 import { Element } from 'react-scroll';
 
 function App() {
   return (
-    <div className="container-fluid">
+    <div className="App">
 
       <Header />
 
